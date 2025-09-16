@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+pandas
+openpyxl
+scikit-learn
+requests
+numpy
+tqdm
